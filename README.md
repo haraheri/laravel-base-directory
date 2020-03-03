@@ -7,3 +7,7 @@
 3. apache
 4. phpenv
 5. laravel 6.x
+
+## setup php
+
+- see [setup-php.md](./setup-php.md){:target="_blank"}
