@@ -178,6 +178,8 @@
 
 ## make project (If there is no project)
 
+- make
+
     ```
     mkdir src
 
