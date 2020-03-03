@@ -10,4 +10,4 @@
 
 ## setup php
 
-- see [setup-php.md](./setup-php.md){:target="_blank"}
+- see [setup-php.md](./setup-php.md)
