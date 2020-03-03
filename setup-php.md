@@ -135,6 +135,12 @@
     php -v
     ```
 
+    - remove phpenv dir
+
+    ```
+    rm -rf phpenv
+    ```
+
 - laravel
 
     - install composer
