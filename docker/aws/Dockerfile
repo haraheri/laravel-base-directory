@@ -19,8 +19,7 @@ RUN yum -y update && yum clean all && \
     glibc-langpack-ja \
     vim \
     sudo \
-    mysql-community-client \
-    mysql-community-server
+    mysql-devel
 
 # set timezone
 RUN ln -sf /usr/share/zoneinfo/Asia/Tokyo /etc/localtime

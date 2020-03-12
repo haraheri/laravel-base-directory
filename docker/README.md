@@ -31,3 +31,9 @@
     ```
     docker exec -it <docker-name> bash
     ```
+
+- down(コンテナを終了し、削除)
+
+    ```
+    docker-compose down
+    ```
