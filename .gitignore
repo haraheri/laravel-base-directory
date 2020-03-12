@@ -1,3 +1,17 @@
 .php-version
 
 src/*
+
+# aws
+docker/aws/home/.bash_history
+docker/aws/home/.mysql_history
+
+# mysql
+docker/mysql/data/docker/*
+docker/mysql/data/mysql/*
+docker/mysql/data/performance_schema/*
+docker/mysql/data/auto.cnf
+docker/mysql/data/ib_logfile0
+docker/mysql/data/ib_logfile1
+docker/mysql/data/ibdata1
+docker/mysql/log/mysqld.log
